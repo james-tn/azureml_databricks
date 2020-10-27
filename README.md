@@ -1,4 +1,4 @@
-# azureml_databricks
+# Training examples on Azure ML & Databricks Integration and ML Model Interpretability 
 This is a training material on follow topics:
 1. Enable querying DeltaLake data from Azure ML with Dask cluster
 2. Model Interpretability with azureml-interpret package 
